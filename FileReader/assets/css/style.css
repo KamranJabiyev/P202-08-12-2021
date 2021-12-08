@@ -1,0 +1,12 @@
+#dropArea{
+    height: 500px;
+    background-color: #aaa;
+    text-align: center;
+}
+
+.fa-cloud-upload-alt{
+    font-size: 100px;
+    line-height: 5;
+    color: teal;
+    cursor: pointer;
+}
